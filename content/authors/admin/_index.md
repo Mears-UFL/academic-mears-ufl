@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan 
+title: Ryan P. Mears
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Lecturer, Department of Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: University
+- name: University of Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: My academic interests include sensation, perception, learning and consciousness. I'm passionate about teaching and doing open science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience & Translation -- Affect, Cognition, Development
+- Dynamic Neural Circuits
+- Mesoscopic Interactions
+- EEG / ECoG / LFP / spikes
 
 education:
   courses:
@@ -39,12 +40,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com
+  link: https://scholar.google.com/citations?user=ERciv7IAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ryan_Mears
 - icon: github
   icon_pack: fab
   link: https://github.com/Mears-UFL
@@ -65,4 +66,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My objective is to help students to develop skills, knowledge frameworks, and quantitative and scientific literacy that will be useful in their future careers. These abilities will enable students to address complex issues effectively and to develop abilities to ask meaningful questions that help solve important scientific problems.  
